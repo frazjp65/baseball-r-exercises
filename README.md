@@ -8,3 +8,4 @@ Datasources:
 * http://www.retrosheet.org/gamelogs/index.html
 ** The information used here was obtained free of charge from and is copyrighted by Retrosheet.  Interested parties may contact Retrosheet at "www.retrosheet.org".
 * http://www.mlb.com PITCHf/x
+* https://raw.githubusercontent.com/maxtoki/baseball_R/master/data/hofpitching.csv hofpitching.csv
