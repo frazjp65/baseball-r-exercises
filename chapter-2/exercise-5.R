@@ -1,6 +1,5 @@
 library(plyr)
-
-Pitching <- read.csv("./data/baseballdatabank/core/Pitching.csv")
+library('Lahman')
 
 stats <- function(d) {
   c.SO <- sum(d$SO, na.rm = TRUE)

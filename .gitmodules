@@ -1,6 +1,3 @@
-[submodule "data/baseballdatabank"]
-	path = data/baseballdatabank
-	url = https://github.com/chadwickbureau/baseballdatabank.git
 [submodule "data/retrosheet"]
 	path = data/retrosheet
 	url = https://github.com/chadwickbureau/retrosheet.git
